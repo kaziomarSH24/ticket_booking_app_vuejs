@@ -286,3 +286,19 @@ button.confirm {
 .confirmed-dialog h3 {
   color: green;
 }
+
+.dp{
+  color: #1f2c46;
+  font-weight: bold;
+  font-size: 12px;
+  margin: 3px 0;
+}
+
+.dp a{
+  text-decoration: none;
+  color: #1f2c46;
+}
+.dp:hover a{
+  color: crimson;
+  
+}
